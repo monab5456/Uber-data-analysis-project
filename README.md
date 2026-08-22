@@ -1,2 +1,2 @@
 # Uber-data-analysis-project
-An end to end data analysis project which analyses about 150,000 UBER ride booking in Delhi,India across 19 dimension to uncovering ride bookings, revenue, completion performance, and cancellation patterns across time, vehicle type, and pickup locations.
+An end to end data analysis project which analyses about 150,000 UBER ride booking in Delhi,India across 19 dimension uncovering ride booking trend, revenue, completion performance, and cancellation patterns across time, vehicle type, and pickup locations.
