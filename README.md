@@ -5,7 +5,7 @@ ____
 
 ## Project Overview
  - The project follows a complete data analysis workflow starting from data cleaning and preparation using  python followed by SQL for business analysis and  finally Power BI for creating interactive visualization.
- - AI tools are used for troubleshoot DAX and SQL issues,refinement of dashboard visualization designs and final analysis of the project.
+ - AI tools are used to troubleshoot DAX and SQL issues,refinement of dashboard visualization designs and final analysis of the project.
  - uncovers ride success rate, cancellations patterns, revenue and peak demand periods.
 
 ----
