@@ -49,4 +49,7 @@ ____
 ----
 
 ## Project Summary
-    Analyzed a 150k row Uber ride booking dataset to identify operational and revenue related challenges. The project involved data cleaning and EDA using python, SQL and Power Bi for business question formulation, queriying , analysis and dashboard designing. The final report derived insights on revenue trends,booking completion rate(approx. 62%), peak demand period and areas, cancellation behavior of customer & driver and high demand area with low completation rate.
+    Analyzed a 150k row Uber ride booking dataset to identify operational and revenue related challenges. The project involved data cleaning and
+    EDA using python, SQL and Power Bi for business question formulation, queriying , analysis and dashboard designing. The final report derived
+    insights on revenue trends,booking completion rate(approx. 62%), peak demand period and areas, cancellation behavior of customer & driver and
+    high demand area with low completation rate.
