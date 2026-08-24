@@ -53,3 +53,9 @@ ____
 EDA using python, SQL and Power Bi for business question formulation, querying , analysis and dashboard designing. The final report derived
 insights on revenue trends,booking completion rate(approx. 62%), peak demand period and areas, cancellation behavior of customer & driver and
 high demand area with low completion rate. 
+
+----
+
+## Author
+ Abhisek Mondal
+ email: abhisekmondal456@gmail.com
