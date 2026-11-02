@@ -7,6 +7,7 @@ ____
  - The project follows a complete data analysis workflow starting from data cleaning and preparation using  python followed by SQL for business analysis and  finally Power BI for creating interactive visualization.
  - AI tools are used to troubleshoot DAX and SQL issues,refinement of dashboard visualization designs and final analysis of the project.
  - uncovers ride success rate, cancellations patterns, revenue and peak demand periods.
+ - Published the report in Power Bi Services and also scheduled data loading and refreshment using Power BI Services.
 
 ----
 
@@ -23,6 +24,7 @@ ____
 | **💾SQL**(Postgres sql) | Database creation, business analysis and querying |
 | **🧮Power BI DAX** | Time-intelligence formulas, live conversion measures |
 | **📊Power BI Desktop** | Interactive multipage visualization dashboard creation |
+|**Power BI Services** | Published Dashboard, ETL|
 
 ----
 
