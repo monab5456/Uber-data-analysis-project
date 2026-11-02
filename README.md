@@ -42,11 +42,12 @@ ____
 ## Visualizations Preview
 | **Homepage** | **Overview** |
 | :---: | :---: |
-| <img width="1461" height="862" alt="Screenshot 2026-08-22 195042" src="https://github.com/user-attachments/assets/db7b1478-89ba-4961-ba99-8282169beb84" /> | <img width="1606" height="871" alt="Screenshot 2026-08-22 195303" src="https://github.com/user-attachments/assets/6ef80b5b-f1e9-4494-84f4-7d2956c05d33" /> | 
+| <img width="1487" height="845" alt="uber homepage" src="https://github.com/user-attachments/assets/822c2995-74ee-4462-bd63-3d3908525e81" /> | <img width="1184" height="682" alt="uber overview" src="https://github.com/user-attachments/assets/59dd8ebe-1fce-464e-aac5-e07caef78463" />
+ | 
 
 | **Revenue** | **Cancellation** |
 | :---: | :---: |
-| <img width="1381" height="862" alt="Screenshot 2026-08-22 195430" src="https://github.com/user-attachments/assets/67a73bbb-65f4-4729-90f3-d6746c95b798" /> | <img width="1498" height="868" alt="Screenshot 2026-08-22 195603" src="https://github.com/user-attachments/assets/2e6b7ea3-9347-463d-9b7a-0d5d1b23df07" /> |
+| <img width="1085" height="761" alt="uber revenue page" src="https://github.com/user-attachments/assets/91a95520-4115-4d18-8532-c94321b9dd91" /> | <img width="1114" height="650" alt="uber cancellation page" src="https://github.com/user-attachments/assets/88054330-b78d-49a1-a2c0-902764ace943" /> |
 
 ----
 
@@ -61,3 +62,4 @@ high demand area with low completion rate.
 ## Author
   Abhisek Mondal
   - email: abhisekmondal456@gmail.com
+  - [Linkedin: Abhisek Mondal](https://www.linkedin.com/in/monab78bq/)
